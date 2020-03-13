@@ -13,9 +13,13 @@ function City() {
         </div>
     );
 }
+
+
 function Task01() {
     return (
-        <City/>
+        <>
+            <City/>
+        </>
     )
 }
 
